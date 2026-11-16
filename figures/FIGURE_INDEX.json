@@ -1,0 +1,248 @@
+[
+  {
+    "kind": "Main Figure",
+    "number": 1,
+    "title": "Historical ENSO phase–yield differences and individual event harvests across four major crops.",
+    "image": "figures/main/Figure_01.png",
+    "source_data": [
+      "source_data/main_figures/phase_and_event_maps/Figure1_EVENT_AXIS.csv",
+      "source_data/main_figures/phase_and_event_maps/Figure1_event_matrix_MAIZE.csv",
+      "source_data/main_figures/phase_and_event_maps/Figure1_event_matrix_RICE.csv",
+      "source_data/main_figures/phase_and_event_maps/Figure1_event_matrix_SOY.csv",
+      "source_data/main_figures/phase_and_event_maps/Figure1_event_matrix_WHEAT.csv",
+      "source_data/main_figures/phase_and_event_maps/phase_annual.csv"
+    ],
+    "builder": "code/visualization/phase_and_event_maps.py"
+  },
+  {
+    "kind": "Main Figure",
+    "number": 2,
+    "title": "Historical ENSO tendencies, contrary harvests and geographic variability.",
+    "image": "figures/main/Figure_02.png",
+    "source_data": [
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG3_G_COUNTRY51.csv",
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG5_A_BUBBLES.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_b.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_d_upper.csv",
+      "source_data/main_figures/historical_environment_production/Figure5_MAJOR150.csv",
+      "source_data/main_figures/historical_environment_production/crosscrop.csv",
+      "source_data/main_figures/historical_environment_production/exceptions.csv",
+      "source_data/main_figures/historical_environment_production/factor_changes.csv",
+      "source_data/main_figures/historical_environment_production/factor_display.csv",
+      "source_data/main_figures/historical_environment_production/phase.csv",
+      "source_data/main_figures/historical_environment_production/production_cases.csv",
+      "source_data/main_figures/historical_environment_production/strength_systems.csv",
+      "source_data/main_figures/historical_environment_production/wheat_display.csv",
+      "source_data/main_figures/historical_environment_production/phase_annual.csv"
+    ],
+    "builder": "code/visualization/historical_environment_production.py"
+  },
+  {
+    "kind": "Main Figure",
+    "number": 3,
+    "title": "Yield distributions and weather contributions across agricultural environments.",
+    "image": "figures/main/Figure_03.png",
+    "source_data": [
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG3_G_COUNTRY51.csv",
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG5_A_BUBBLES.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_b.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_d_upper.csv",
+      "source_data/main_figures/historical_environment_production/Figure5_MAJOR150.csv",
+      "source_data/main_figures/historical_environment_production/crosscrop.csv",
+      "source_data/main_figures/historical_environment_production/exceptions.csv",
+      "source_data/main_figures/historical_environment_production/factor_changes.csv",
+      "source_data/main_figures/historical_environment_production/factor_display.csv",
+      "source_data/main_figures/historical_environment_production/phase.csv",
+      "source_data/main_figures/historical_environment_production/production_cases.csv",
+      "source_data/main_figures/historical_environment_production/strength_systems.csv",
+      "source_data/main_figures/historical_environment_production/wheat_display.csv",
+      "source_data/main_figures/historical_environment_production/phase_annual.csv"
+    ],
+    "builder": "code/visualization/historical_environment_production.py"
+  },
+  {
+    "kind": "Main Figure",
+    "number": 4,
+    "title": "Observed yield anomalies and modelled weather contributions during ENSO events.",
+    "image": "figures/main/Figure_04.png",
+    "source_data": [
+      "source_data/main_figures/event_weather_comparisons/Figure4_SELECTED_CONTRASTS.csv",
+      "source_data/main_figures/event_weather_comparisons/Figure4_USA_CROSSCROP.csv",
+      "source_data/main_figures/event_weather_comparisons/MAIZE_DISPLAY_LAYERS.npz",
+      "source_data/main_figures/event_weather_comparisons/RICE_DISPLAY_LAYERS.npz",
+      "source_data/main_figures/event_weather_comparisons/SOY_DISPLAY_LAYERS.npz",
+      "source_data/main_figures/event_weather_comparisons/WHEAT_DISPLAY_LAYERS.npz",
+      "source_data/main_figures/event_weather_comparisons/arg_zaf.csv",
+      "source_data/main_figures/event_weather_comparisons/event.csv"
+    ],
+    "builder": "code/visualization/event_weather_comparisons.py"
+  },
+  {
+    "kind": "Main Figure",
+    "number": 5,
+    "title": "Yield anomalies, harvested area and reported production among major producers.",
+    "image": "figures/main/Figure_05.png",
+    "source_data": [
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG3_G_COUNTRY51.csv",
+      "source_data/main_figures/historical_environment_production/DISPLAY_FIG5_A_BUBBLES.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_b.csv",
+      "source_data/main_figures/historical_environment_production/Figure2_d_upper.csv",
+      "source_data/main_figures/historical_environment_production/Figure5_MAJOR150.csv",
+      "source_data/main_figures/historical_environment_production/crosscrop.csv",
+      "source_data/main_figures/historical_environment_production/exceptions.csv",
+      "source_data/main_figures/historical_environment_production/factor_changes.csv",
+      "source_data/main_figures/historical_environment_production/factor_display.csv",
+      "source_data/main_figures/historical_environment_production/phase.csv",
+      "source_data/main_figures/historical_environment_production/production_cases.csv",
+      "source_data/main_figures/historical_environment_production/strength_systems.csv",
+      "source_data/main_figures/historical_environment_production/wheat_display.csv",
+      "source_data/main_figures/historical_environment_production/phase_annual.csv"
+    ],
+    "builder": "code/visualization/historical_environment_production.py"
+  },
+  {
+    "kind": "Main Figure",
+    "number": 6,
+    "title": "Conditional severe-low-yield risks for 2027 harvests under the ENSO outlook.",
+    "image": "figures/main/Figure_06.png",
+    "source_data": [
+      "source_data/main_figures/conditional_risk/risk.csv",
+      "source_data/main_figures/conditional_risk/risk_background.csv",
+      "source_data/main_figures/conditional_risk/risk_summary.csv"
+    ],
+    "builder": "code/visualization/conditional_risk.py"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 1,
+    "title": "Observed agricultural events and their other-event histories",
+    "image": "figures/supplementary/Supplementary_Figure_01.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 2,
+    "title": "All shared events: directions, maps and production coverage",
+    "image": "figures/supplementary/Supplementary_Figure_02.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 3,
+    "title": "Same-target historical-reference and training-support checks",
+    "image": "figures/supplementary/Supplementary_Figure_03.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 4,
+    "title": "Spatial comparisons among actual physical ENSO events",
+    "image": "figures/supplementary/Supplementary_Figure_04.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 5,
+    "title": "Event repetition and changes between historical periods",
+    "image": "figures/supplementary/Supplementary_Figure_05.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 6,
+    "title": "Five-factor historical importance and weighting",
+    "image": "figures/supplementary/Supplementary_Figure_06.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 7,
+    "title": "VPD and soil-water share differences",
+    "image": "figures/supplementary/Supplementary_Figure_07.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 8,
+    "title": "Detailed weather contrasts and the monthly precipitation sequence",
+    "image": "figures/supplementary/Supplementary_Figure_08.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 9,
+    "title": "Weather anomalies across products and changes in relationship membership",
+    "image": "figures/supplementary/Supplementary_Figure_09.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 10,
+    "title": "Weather and yield across complete events in illustrative systems",
+    "image": "figures/supplementary/Supplementary_Figure_10.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 11,
+    "title": "Weather relationships under alternative references, time background and fixed space",
+    "image": "figures/supplementary/Supplementary_Figure_11.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 12,
+    "title": "Production reversals under reference, source and full-event influence checks",
+    "image": "figures/supplementary/Supplementary_Figure_12.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 13,
+    "title": "System yield–production relationships and their interpretation",
+    "image": "figures/supplementary/Supplementary_Figure_13.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 14,
+    "title": "Historical issued-probability application and calibration limits",
+    "image": "figures/supplementary/Supplementary_Figure_14.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 15,
+    "title": "Yield uncertainty and production-area scenarios",
+    "image": "figures/supplementary/Supplementary_Figure_15.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 16,
+    "title": "Pooled relative-association distributions on complete event support",
+    "image": "figures/supplementary/Supplementary_Figure_16.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 17,
+    "title": "Complete signed intensity–yield and weather–yield relationships",
+    "image": "figures/supplementary/Supplementary_Figure_17.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 18,
+    "title": "Event-model errors depend on the metric, weighting and observed support",
+    "image": "figures/supplementary/Supplementary_Figure_18.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  },
+  {
+    "kind": "Supplementary Figure",
+    "number": 19,
+    "title": "Preselected La Niña histories across early and late periods",
+    "image": "figures/supplementary/Supplementary_Figure_19.png",
+    "source_data_status": "Complete numerical companions indexed by supplementary table; separate portable builder not supplied"
+  }
+]

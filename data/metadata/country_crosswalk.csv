@@ -1,0 +1,409 @@
+﻿iso3,country_standard,fao_area_code,fao_name,source,source_name,historical_entity,valid_from,valid_to,successor_iso3,status,notes
+AFG,Afghanistan,2,Afghanistan,FAOSTAT,Afghanistan,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5100,Africa,FAOSTAT,Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+ALB,Albania,3,Albania,FAOSTAT,Albania,0,,,,matched,Exact UN M49 to ISO3 match.
+DZA,Algeria,4,Algeria,FAOSTAT,Algeria,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5200,Americas,FAOSTAT,Americas,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+AGO,Angola,7,Angola,FAOSTAT,Angola,0,,,,matched,Exact UN M49 to ISO3 match.
+ATG,Antigua and Barbuda,8,Antigua and Barbuda,FAOSTAT,Antigua and Barbuda,0,,,,matched,Exact UN M49 to ISO3 match.
+ARG,Argentina,9,Argentina,FAOSTAT,Argentina,0,,,,matched,Exact UN M49 to ISO3 match.
+ARM,Armenia,1,Armenia,FAOSTAT,Armenia,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5300,Asia,FAOSTAT,Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+AUS,Australia,10,Australia,FAOSTAT,Australia,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5501,Australia and New Zealand,FAOSTAT,Australia and New Zealand,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+AUT,Austria,11,Austria,FAOSTAT,Austria,0,,,,matched,Exact UN M49 to ISO3 match.
+AZE,Azerbaijan,52,Azerbaijan,FAOSTAT,Azerbaijan,0,,,,matched,Exact UN M49 to ISO3 match.
+BHS,Bahamas,12,Bahamas,FAOSTAT,Bahamas,0,,,,matched,Exact UN M49 to ISO3 match.
+BGD,Bangladesh,16,Bangladesh,FAOSTAT,Bangladesh,0,,,,matched,Exact UN M49 to ISO3 match.
+BRB,Barbados,14,Barbados,FAOSTAT,Barbados,0,,,,matched,Exact UN M49 to ISO3 match.
+BLR,Belarus,57,Belarus,FAOSTAT,Belarus,0,,,,matched,Exact UN M49 to ISO3 match.
+BEL,Belgium,255,Belgium,FAOSTAT,Belgium,0,,,,matched,Exact UN M49 to ISO3 match.
+BLX,Belgium-Luxembourg,15,Belgium-Luxembourg,FAOSTAT,Belgium-Luxembourg,1,1921,1999,BEL|LUX,historical_entity,Retained as historical entity; successors=BEL|LUX; valid=1921-1999.
+BLZ,Belize,23,Belize,FAOSTAT,Belize,0,,,,matched,Exact UN M49 to ISO3 match.
+BEN,Benin,53,Benin,FAOSTAT,Benin,0,,,,matched,Exact UN M49 to ISO3 match.
+BTN,Bhutan,18,Bhutan,FAOSTAT,Bhutan,0,,,,matched,Exact UN M49 to ISO3 match.
+BOL,"Bolivia, Plurinational State of",19,Bolivia (Plurinational State of),FAOSTAT,Bolivia (Plurinational State of),0,,,,matched,Exact UN M49 to ISO3 match.
+BIH,Bosnia and Herzegovina,80,Bosnia and Herzegovina,FAOSTAT,Bosnia and Herzegovina,0,,,,matched,Exact UN M49 to ISO3 match.
+BWA,Botswana,20,Botswana,FAOSTAT,Botswana,0,,,,matched,Exact UN M49 to ISO3 match.
+BRA,Brazil,21,Brazil,FAOSTAT,Brazil,0,,,,matched,Exact UN M49 to ISO3 match.
+BRN,Brunei Darussalam,26,Brunei Darussalam,FAOSTAT,Brunei Darussalam,0,,,,matched,Exact UN M49 to ISO3 match.
+BGR,Bulgaria,27,Bulgaria,FAOSTAT,Bulgaria,0,,,,matched,Exact UN M49 to ISO3 match.
+BFA,Burkina Faso,233,Burkina Faso,FAOSTAT,Burkina Faso,0,,,,matched,Exact UN M49 to ISO3 match.
+BDI,Burundi,29,Burundi,FAOSTAT,Burundi,0,,,,matched,Exact UN M49 to ISO3 match.
+CPV,Cabo Verde,35,Cabo Verde,FAOSTAT,Cabo Verde,0,,,,matched,Exact UN M49 to ISO3 match.
+KHM,Cambodia,115,Cambodia,FAOSTAT,Cambodia,0,,,,matched,Exact UN M49 to ISO3 match.
+CMR,Cameroon,32,Cameroon,FAOSTAT,Cameroon,0,,,,matched,Exact UN M49 to ISO3 match.
+CAN,Canada,33,Canada,FAOSTAT,Canada,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5206,Caribbean,FAOSTAT,Caribbean,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+CAF,Central African Republic,37,Central African Republic,FAOSTAT,Central African Republic,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5204,Central America,FAOSTAT,Central America,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5301,Central Asia,FAOSTAT,Central Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+TCD,Chad,39,Chad,FAOSTAT,Chad,0,,,,matched,Exact UN M49 to ISO3 match.
+CHL,Chile,40,Chile,FAOSTAT,Chile,0,,,,matched,Exact UN M49 to ISO3 match.
+,,351,China,FAOSTAT,China,0,,,,aggregate_excluded,"FAOSTAT China aggregate (mainland plus special areas); excluded to avoid duplicating China, mainland."
+HKG,Hong Kong,96,"China, Hong Kong SAR",FAOSTAT,"China, Hong Kong SAR",0,,,,matched,Exact UN M49 to ISO3 match.
+TWN,"Taiwan, Province of China",214,"China, Taiwan Province of",FAOSTAT,"China, Taiwan Province of",0,,,,matched,Exact UN M49 to ISO3 match.
+CHN,China,41,"China, mainland",FAOSTAT,"China, mainland",0,,,,matched,Exact UN M49 to ISO3 match.
+COL,Colombia,44,Colombia,FAOSTAT,Colombia,0,,,,matched,Exact UN M49 to ISO3 match.
+COM,Comoros,45,Comoros,FAOSTAT,Comoros,0,,,,matched,Exact UN M49 to ISO3 match.
+COG,Congo,46,Congo,FAOSTAT,Congo,0,,,,matched,Exact UN M49 to ISO3 match.
+CRI,Costa Rica,48,Costa Rica,FAOSTAT,Costa Rica,0,,,,matched,Exact UN M49 to ISO3 match.
+HRV,Croatia,98,Croatia,FAOSTAT,Croatia,0,,,,matched,Exact UN M49 to ISO3 match.
+CUB,Cuba,49,Cuba,FAOSTAT,Cuba,0,,,,matched,Exact UN M49 to ISO3 match.
+CYP,Cyprus,50,Cyprus,FAOSTAT,Cyprus,0,,,,matched,Exact UN M49 to ISO3 match.
+CZE,Czechia,167,Czechia,FAOSTAT,Czechia,0,,,,matched,Exact UN M49 to ISO3 match.
+CSK,Czechoslovakia,51,Czechoslovakia,FAOSTAT,Czechoslovakia,1,1918,1992,CZE|SVK,historical_entity,Retained as historical entity; successors=CZE|SVK; valid=1918-1992.
+CIV,Côte d'Ivoire,107,Côte d'Ivoire,FAOSTAT,Côte d'Ivoire,0,,,,matched,Exact UN M49 to ISO3 match.
+PRK,"Korea, Democratic People's Republic of",116,Democratic People's Republic of Korea,FAOSTAT,Democratic People's Republic of Korea,0,,,,matched,Exact UN M49 to ISO3 match.
+COD,"Congo, The Democratic Republic of the",250,Democratic Republic of the Congo,FAOSTAT,Democratic Republic of the Congo,0,,,,matched,Exact UN M49 to ISO3 match.
+DNK,Denmark,54,Denmark,FAOSTAT,Denmark,0,,,,matched,Exact UN M49 to ISO3 match.
+DJI,Djibouti,72,Djibouti,FAOSTAT,Djibouti,0,,,,matched,Exact UN M49 to ISO3 match.
+DMA,Dominica,55,Dominica,FAOSTAT,Dominica,0,,,,matched,Exact UN M49 to ISO3 match.
+DOM,Dominican Republic,56,Dominican Republic,FAOSTAT,Dominican Republic,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5101,Eastern Africa,FAOSTAT,Eastern Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5302,Eastern Asia,FAOSTAT,Eastern Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5401,Eastern Europe,FAOSTAT,Eastern Europe,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+ECU,Ecuador,58,Ecuador,FAOSTAT,Ecuador,0,,,,matched,Exact UN M49 to ISO3 match.
+EGY,Egypt,59,Egypt,FAOSTAT,Egypt,0,,,,matched,Exact UN M49 to ISO3 match.
+SLV,El Salvador,60,El Salvador,FAOSTAT,El Salvador,0,,,,matched,Exact UN M49 to ISO3 match.
+ERI,Eritrea,178,Eritrea,FAOSTAT,Eritrea,0,,,,matched,Exact UN M49 to ISO3 match.
+EST,Estonia,63,Estonia,FAOSTAT,Estonia,0,,,,matched,Exact UN M49 to ISO3 match.
+SWZ,Eswatini,209,Eswatini,FAOSTAT,Eswatini,0,,,,matched,Exact UN M49 to ISO3 match.
+ETH,Ethiopia,238,Ethiopia,FAOSTAT,Ethiopia,0,,,,matched,Exact UN M49 to ISO3 match.
+ETH,Ethiopia PDR (former boundaries),62,Ethiopia PDR,FAOSTAT,Ethiopia PDR,1,1987,1992,ETH|ERI,historical_entity,Retained as historical entity; successors=ETH|ERI; valid=1987-1992.
+,,5400,Europe,FAOSTAT,Europe,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5707,European Union (27),FAOSTAT,European Union (27),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+FJI,Fiji,66,Fiji,FAOSTAT,Fiji,0,,,,matched,Exact UN M49 to ISO3 match.
+FIN,Finland,67,Finland,FAOSTAT,Finland,0,,,,matched,Exact UN M49 to ISO3 match.
+FRA,France,68,France,FAOSTAT,France,0,,,,matched,Exact UN M49 to ISO3 match.
+GUF,French Guiana,69,French Guiana,FAOSTAT,French Guiana,0,,,,matched,Exact UN M49 to ISO3 match.
+PYF,French Polynesia,70,French Polynesia,FAOSTAT,French Polynesia,0,,,,matched,Exact UN M49 to ISO3 match.
+GAB,Gabon,74,Gabon,FAOSTAT,Gabon,0,,,,matched,Exact UN M49 to ISO3 match.
+GMB,Gambia,75,Gambia,FAOSTAT,Gambia,0,,,,matched,Exact UN M49 to ISO3 match.
+GEO,Georgia,73,Georgia,FAOSTAT,Georgia,0,,,,matched,Exact UN M49 to ISO3 match.
+DEU,Germany,79,Germany,FAOSTAT,Germany,0,,,,matched,Exact UN M49 to ISO3 match.
+GHA,Ghana,81,Ghana,FAOSTAT,Ghana,0,,,,matched,Exact UN M49 to ISO3 match.
+GRC,Greece,84,Greece,FAOSTAT,Greece,0,,,,matched,Exact UN M49 to ISO3 match.
+GRD,Grenada,86,Grenada,FAOSTAT,Grenada,0,,,,matched,Exact UN M49 to ISO3 match.
+GLP,Guadeloupe,87,Guadeloupe,FAOSTAT,Guadeloupe,0,,,,matched,Exact UN M49 to ISO3 match.
+GTM,Guatemala,89,Guatemala,FAOSTAT,Guatemala,0,,,,matched,Exact UN M49 to ISO3 match.
+GIN,Guinea,90,Guinea,FAOSTAT,Guinea,0,,,,matched,Exact UN M49 to ISO3 match.
+GNB,Guinea-Bissau,175,Guinea-Bissau,FAOSTAT,Guinea-Bissau,0,,,,matched,Exact UN M49 to ISO3 match.
+GUY,Guyana,91,Guyana,FAOSTAT,Guyana,0,,,,matched,Exact UN M49 to ISO3 match.
+HTI,Haiti,93,Haiti,FAOSTAT,Haiti,0,,,,matched,Exact UN M49 to ISO3 match.
+HND,Honduras,95,Honduras,FAOSTAT,Honduras,0,,,,matched,Exact UN M49 to ISO3 match.
+HUN,Hungary,97,Hungary,FAOSTAT,Hungary,0,,,,matched,Exact UN M49 to ISO3 match.
+IND,India,100,India,FAOSTAT,India,0,,,,matched,Exact UN M49 to ISO3 match.
+IDN,Indonesia,101,Indonesia,FAOSTAT,Indonesia,0,,,,matched,Exact UN M49 to ISO3 match.
+IRN,"Iran, Islamic Republic of",102,Iran (Islamic Republic of),FAOSTAT,Iran (Islamic Republic of),0,,,,matched,Exact UN M49 to ISO3 match.
+IRQ,Iraq,103,Iraq,FAOSTAT,Iraq,0,,,,matched,Exact UN M49 to ISO3 match.
+IRL,Ireland,104,Ireland,FAOSTAT,Ireland,0,,,,matched,Exact UN M49 to ISO3 match.
+ISR,Israel,105,Israel,FAOSTAT,Israel,0,,,,matched,Exact UN M49 to ISO3 match.
+ITA,Italy,106,Italy,FAOSTAT,Italy,0,,,,matched,Exact UN M49 to ISO3 match.
+JAM,Jamaica,109,Jamaica,FAOSTAT,Jamaica,0,,,,matched,Exact UN M49 to ISO3 match.
+JPN,Japan,110,Japan,FAOSTAT,Japan,0,,,,matched,Exact UN M49 to ISO3 match.
+JOR,Jordan,112,Jordan,FAOSTAT,Jordan,0,,,,matched,Exact UN M49 to ISO3 match.
+KAZ,Kazakhstan,108,Kazakhstan,FAOSTAT,Kazakhstan,0,,,,matched,Exact UN M49 to ISO3 match.
+KEN,Kenya,114,Kenya,FAOSTAT,Kenya,0,,,,matched,Exact UN M49 to ISO3 match.
+KWT,Kuwait,118,Kuwait,FAOSTAT,Kuwait,0,,,,matched,Exact UN M49 to ISO3 match.
+KGZ,Kyrgyzstan,113,Kyrgyzstan,FAOSTAT,Kyrgyzstan,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5802,Land Locked Developing Countries (LLDCs),FAOSTAT,Land Locked Developing Countries (LLDCs),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+LAO,Lao People's Democratic Republic,120,Lao People's Democratic Republic,FAOSTAT,Lao People's Democratic Republic,0,,,,matched,Exact UN M49 to ISO3 match.
+LVA,Latvia,119,Latvia,FAOSTAT,Latvia,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5801,Least Developed Countries (LDCs),FAOSTAT,Least Developed Countries (LDCs),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+LBN,Lebanon,121,Lebanon,FAOSTAT,Lebanon,0,,,,matched,Exact UN M49 to ISO3 match.
+LSO,Lesotho,122,Lesotho,FAOSTAT,Lesotho,0,,,,matched,Exact UN M49 to ISO3 match.
+LBR,Liberia,123,Liberia,FAOSTAT,Liberia,0,,,,matched,Exact UN M49 to ISO3 match.
+LBY,Libya,124,Libya,FAOSTAT,Libya,0,,,,matched,Exact UN M49 to ISO3 match.
+LTU,Lithuania,126,Lithuania,FAOSTAT,Lithuania,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5815,Low Income Food Deficit Countries (LIFDCs),FAOSTAT,Low Income Food Deficit Countries (LIFDCs),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+LUX,Luxembourg,256,Luxembourg,FAOSTAT,Luxembourg,0,,,,matched,Exact UN M49 to ISO3 match.
+MDG,Madagascar,129,Madagascar,FAOSTAT,Madagascar,0,,,,matched,Exact UN M49 to ISO3 match.
+MWI,Malawi,130,Malawi,FAOSTAT,Malawi,0,,,,matched,Exact UN M49 to ISO3 match.
+MYS,Malaysia,131,Malaysia,FAOSTAT,Malaysia,0,,,,matched,Exact UN M49 to ISO3 match.
+MDV,Maldives,132,Maldives,FAOSTAT,Maldives,0,,,,matched,Exact UN M49 to ISO3 match.
+MLI,Mali,133,Mali,FAOSTAT,Mali,0,,,,matched,Exact UN M49 to ISO3 match.
+MLT,Malta,134,Malta,FAOSTAT,Malta,0,,,,matched,Exact UN M49 to ISO3 match.
+MRT,Mauritania,136,Mauritania,FAOSTAT,Mauritania,0,,,,matched,Exact UN M49 to ISO3 match.
+MUS,Mauritius,137,Mauritius,FAOSTAT,Mauritius,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5502,Melanesia,FAOSTAT,Melanesia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+MEX,Mexico,138,Mexico,FAOSTAT,Mexico,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5503,Micronesia,FAOSTAT,Micronesia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+FSM,"Micronesia, Federated States of",145,Micronesia (Federated States of),FAOSTAT,Micronesia (Federated States of),0,,,,matched,Exact UN M49 to ISO3 match.
+,,5102,Middle Africa,FAOSTAT,Middle Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+MNG,Mongolia,141,Mongolia,FAOSTAT,Mongolia,0,,,,matched,Exact UN M49 to ISO3 match.
+MNE,Montenegro,273,Montenegro,FAOSTAT,Montenegro,0,,,,matched,Exact UN M49 to ISO3 match.
+MAR,Morocco,143,Morocco,FAOSTAT,Morocco,0,,,,matched,Exact UN M49 to ISO3 match.
+MOZ,Mozambique,144,Mozambique,FAOSTAT,Mozambique,0,,,,matched,Exact UN M49 to ISO3 match.
+MMR,Myanmar,28,Myanmar,FAOSTAT,Myanmar,0,,,,matched,Exact UN M49 to ISO3 match.
+NAM,Namibia,147,Namibia,FAOSTAT,Namibia,0,,,,matched,Exact UN M49 to ISO3 match.
+NPL,Nepal,149,Nepal,FAOSTAT,Nepal,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5817,Net Food Importing Developing Countries (NFIDCs),FAOSTAT,Net Food Importing Developing Countries (NFIDCs),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+NLD,Netherlands,150,Netherlands (Kingdom of the),FAOSTAT,Netherlands (Kingdom of the),0,,,,matched,Exact UN M49 to ISO3 match.
+NCL,New Caledonia,153,New Caledonia,FAOSTAT,New Caledonia,0,,,,matched,Exact UN M49 to ISO3 match.
+NZL,New Zealand,156,New Zealand,FAOSTAT,New Zealand,0,,,,matched,Exact UN M49 to ISO3 match.
+NIC,Nicaragua,157,Nicaragua,FAOSTAT,Nicaragua,0,,,,matched,Exact UN M49 to ISO3 match.
+NER,Niger,158,Niger,FAOSTAT,Niger,0,,,,matched,Exact UN M49 to ISO3 match.
+NGA,Nigeria,159,Nigeria,FAOSTAT,Nigeria,0,,,,matched,Exact UN M49 to ISO3 match.
+MKD,North Macedonia,154,North Macedonia,FAOSTAT,North Macedonia,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5103,Northern Africa,FAOSTAT,Northern Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5203,Northern America,FAOSTAT,Northern America,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5402,Northern Europe,FAOSTAT,Northern Europe,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+NOR,Norway,162,Norway,FAOSTAT,Norway,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5500,Oceania,FAOSTAT,Oceania,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+OMN,Oman,221,Oman,FAOSTAT,Oman,0,,,,matched,Exact UN M49 to ISO3 match.
+PAK,Pakistan,165,Pakistan,FAOSTAT,Pakistan,0,,,,matched,Exact UN M49 to ISO3 match.
+PSE,"Palestine, State of",299,Palestine,FAOSTAT,Palestine,0,,,,matched,Exact UN M49 to ISO3 match.
+PAN,Panama,166,Panama,FAOSTAT,Panama,0,,,,matched,Exact UN M49 to ISO3 match.
+PNG,Papua New Guinea,168,Papua New Guinea,FAOSTAT,Papua New Guinea,0,,,,matched,Exact UN M49 to ISO3 match.
+PRY,Paraguay,169,Paraguay,FAOSTAT,Paraguay,0,,,,matched,Exact UN M49 to ISO3 match.
+PER,Peru,170,Peru,FAOSTAT,Peru,0,,,,matched,Exact UN M49 to ISO3 match.
+PHL,Philippines,171,Philippines,FAOSTAT,Philippines,0,,,,matched,Exact UN M49 to ISO3 match.
+POL,Poland,173,Poland,FAOSTAT,Poland,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5504,Polynesia,FAOSTAT,Polynesia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+PRT,Portugal,174,Portugal,FAOSTAT,Portugal,0,,,,matched,Exact UN M49 to ISO3 match.
+PRI,Puerto Rico,177,Puerto Rico,FAOSTAT,Puerto Rico,0,,,,matched,Exact UN M49 to ISO3 match.
+QAT,Qatar,179,Qatar,FAOSTAT,Qatar,0,,,,matched,Exact UN M49 to ISO3 match.
+KOR,"Korea, Republic of",117,Republic of Korea,FAOSTAT,Republic of Korea,0,,,,matched,Exact UN M49 to ISO3 match.
+MDA,"Moldova, Republic of",146,Republic of Moldova,FAOSTAT,Republic of Moldova,0,,,,matched,Exact UN M49 to ISO3 match.
+ROU,Romania,183,Romania,FAOSTAT,Romania,0,,,,matched,Exact UN M49 to ISO3 match.
+RUS,Russian Federation,185,Russian Federation,FAOSTAT,Russian Federation,0,,,,matched,Exact UN M49 to ISO3 match.
+RWA,Rwanda,184,Rwanda,FAOSTAT,Rwanda,0,,,,matched,Exact UN M49 to ISO3 match.
+REU,Réunion,182,Réunion,FAOSTAT,Réunion,0,,,,matched,Exact UN M49 to ISO3 match.
+LCA,Saint Lucia,189,Saint Lucia,FAOSTAT,Saint Lucia,0,,,,matched,Exact UN M49 to ISO3 match.
+VCT,Saint Vincent and the Grenadines,191,Saint Vincent and the Grenadines,FAOSTAT,Saint Vincent and the Grenadines,0,,,,matched,Exact UN M49 to ISO3 match.
+STP,Sao Tome and Principe,193,Sao Tome and Principe,FAOSTAT,Sao Tome and Principe,0,,,,matched,Exact UN M49 to ISO3 match.
+SAU,Saudi Arabia,194,Saudi Arabia,FAOSTAT,Saudi Arabia,0,,,,matched,Exact UN M49 to ISO3 match.
+SEN,Senegal,195,Senegal,FAOSTAT,Senegal,0,,,,matched,Exact UN M49 to ISO3 match.
+SRB,Serbia,272,Serbia,FAOSTAT,Serbia,0,,,,matched,Exact UN M49 to ISO3 match.
+SCG,Serbia and Montenegro,186,Serbia and Montenegro,FAOSTAT,Serbia and Montenegro,1,2003,2006,MNE|SRB,historical_entity,Retained as historical entity; successors=MNE|SRB; valid=2003-2006.
+SLE,Sierra Leone,197,Sierra Leone,FAOSTAT,Sierra Leone,0,,,,matched,Exact UN M49 to ISO3 match.
+SVK,Slovakia,199,Slovakia,FAOSTAT,Slovakia,0,,,,matched,Exact UN M49 to ISO3 match.
+SVN,Slovenia,198,Slovenia,FAOSTAT,Slovenia,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5803,Small Island Developing States (SIDS),FAOSTAT,Small Island Developing States (SIDS),0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+SLB,Solomon Islands,25,Solomon Islands,FAOSTAT,Solomon Islands,0,,,,matched,Exact UN M49 to ISO3 match.
+SOM,Somalia,201,Somalia,FAOSTAT,Somalia,0,,,,matched,Exact UN M49 to ISO3 match.
+ZAF,South Africa,202,South Africa,FAOSTAT,South Africa,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5207,South America,FAOSTAT,South America,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+SSD,South Sudan,277,South Sudan,FAOSTAT,South Sudan,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5304,South-eastern Asia,FAOSTAT,South-eastern Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5104,Southern Africa,FAOSTAT,Southern Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5303,Southern Asia,FAOSTAT,Southern Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5403,Southern Europe,FAOSTAT,Southern Europe,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+ESP,Spain,203,Spain,FAOSTAT,Spain,0,,,,matched,Exact UN M49 to ISO3 match.
+LKA,Sri Lanka,38,Sri Lanka,FAOSTAT,Sri Lanka,0,,,,matched,Exact UN M49 to ISO3 match.
+SDN,Sudan,276,Sudan,FAOSTAT,Sudan,0,,,,matched,Exact UN M49 to ISO3 match.
+SDN,Sudan (former boundaries),206,Sudan (former),FAOSTAT,Sudan (former),1,1956,2010,SDN|SSD,historical_entity,Retained as historical entity; successors=SDN|SSD; valid=1956-2010.
+SUR,Suriname,207,Suriname,FAOSTAT,Suriname,0,,,,matched,Exact UN M49 to ISO3 match.
+SWE,Sweden,210,Sweden,FAOSTAT,Sweden,0,,,,matched,Exact UN M49 to ISO3 match.
+CHE,Switzerland,211,Switzerland,FAOSTAT,Switzerland,0,,,,matched,Exact UN M49 to ISO3 match.
+SYR,Syrian Arab Republic,212,Syrian Arab Republic,FAOSTAT,Syrian Arab Republic,0,,,,matched,Exact UN M49 to ISO3 match.
+TJK,Tajikistan,208,Tajikistan,FAOSTAT,Tajikistan,0,,,,matched,Exact UN M49 to ISO3 match.
+THA,Thailand,216,Thailand,FAOSTAT,Thailand,0,,,,matched,Exact UN M49 to ISO3 match.
+TLS,Timor-Leste,176,Timor-Leste,FAOSTAT,Timor-Leste,0,,,,matched,Exact UN M49 to ISO3 match.
+TGO,Togo,217,Togo,FAOSTAT,Togo,0,,,,matched,Exact UN M49 to ISO3 match.
+TTO,Trinidad and Tobago,220,Trinidad and Tobago,FAOSTAT,Trinidad and Tobago,0,,,,matched,Exact UN M49 to ISO3 match.
+TUN,Tunisia,222,Tunisia,FAOSTAT,Tunisia,0,,,,matched,Exact UN M49 to ISO3 match.
+TKM,Turkmenistan,213,Turkmenistan,FAOSTAT,Turkmenistan,0,,,,matched,Exact UN M49 to ISO3 match.
+TUR,Türkiye,223,Türkiye,FAOSTAT,Türkiye,0,,,,matched,Exact UN M49 to ISO3 match.
+SUN,USSR,228,USSR,FAOSTAT,USSR,1,1922,1991,ARM|AZE|BLR|EST|GEO|KAZ|KGZ|LVA|LTU|MDA|RUS|TJK|TKM|UKR|UZB,historical_entity,Retained as historical entity; successors=ARM|AZE|BLR|EST|GEO|KAZ|KGZ|LVA|LTU|MDA|RUS|TJK|TKM|UKR|UZB; valid=1922-1991.
+UGA,Uganda,226,Uganda,FAOSTAT,Uganda,0,,,,matched,Exact UN M49 to ISO3 match.
+UKR,Ukraine,230,Ukraine,FAOSTAT,Ukraine,0,,,,matched,Exact UN M49 to ISO3 match.
+ARE,United Arab Emirates,225,United Arab Emirates,FAOSTAT,United Arab Emirates,0,,,,matched,Exact UN M49 to ISO3 match.
+GBR,United Kingdom,229,United Kingdom of Great Britain and Northern Ireland,FAOSTAT,United Kingdom of Great Britain and Northern Ireland,0,,,,matched,Exact UN M49 to ISO3 match.
+TZA,"Tanzania, United Republic of",215,United Republic of Tanzania,FAOSTAT,United Republic of Tanzania,0,,,,matched,Exact UN M49 to ISO3 match.
+USA,United States,231,United States of America,FAOSTAT,United States of America,0,,,,matched,Exact UN M49 to ISO3 match.
+URY,Uruguay,234,Uruguay,FAOSTAT,Uruguay,0,,,,matched,Exact UN M49 to ISO3 match.
+UZB,Uzbekistan,235,Uzbekistan,FAOSTAT,Uzbekistan,0,,,,matched,Exact UN M49 to ISO3 match.
+VUT,Vanuatu,155,Vanuatu,FAOSTAT,Vanuatu,0,,,,matched,Exact UN M49 to ISO3 match.
+VEN,"Venezuela, Bolivarian Republic of",236,Venezuela (Bolivarian Republic of),FAOSTAT,Venezuela (Bolivarian Republic of),0,,,,matched,Exact UN M49 to ISO3 match.
+VNM,Viet Nam,237,Viet Nam,FAOSTAT,Viet Nam,0,,,,matched,Exact UN M49 to ISO3 match.
+,,5105,Western Africa,FAOSTAT,Western Africa,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5305,Western Asia,FAOSTAT,Western Asia,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5404,Western Europe,FAOSTAT,Western Europe,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+,,5000,World,FAOSTAT,World,0,,,,aggregate_excluded,FAOSTAT aggregate/regional entity; excluded from country-level panel.
+YEM,Yemen,249,Yemen,FAOSTAT,Yemen,0,,,,matched,Exact UN M49 to ISO3 match.
+YUG,Yugoslavia SFR,248,Yugoslav SFR,FAOSTAT,Yugoslav SFR,1,1945,1991,BIH|HRV|MKD|MNE|SRB|SVN,historical_entity,Retained as historical entity; successors=BIH|HRV|MKD|MNE|SRB|SVN; valid=1945-1991.
+ZMB,Zambia,251,Zambia,FAOSTAT,Zambia,0,,,,matched,Exact UN M49 to ISO3 match.
+ZWE,Zimbabwe,181,Zimbabwe,FAOSTAT,Zimbabwe,0,,,,matched,Exact UN M49 to ISO3 match.
+AFG,Afghanistan,,,SPAM2020,Afghanistan,0,,,,matched,SPAM FIPS0=AF. Exact normalized ISO name match.
+ALB,Albania,,,SPAM2020,Albania,0,,,,matched,SPAM FIPS0=AL. Exact normalized ISO name match.
+DZA,Algeria,,,SPAM2020,Algeria,0,,,,matched,SPAM FIPS0=AG. Exact normalized ISO name match.
+AGO,Angola,,,SPAM2020,Angola,0,,,,matched,SPAM FIPS0=AO. Exact normalized ISO name match.
+ATG,Antigua and Barbuda,,,SPAM2020,Antigua and Barbuda,0,,,,matched,SPAM FIPS0=AC. Exact normalized ISO name match.
+ARG,Argentina,,,SPAM2020,Argentina,0,,,,matched,SPAM FIPS0=AR. Exact normalized ISO name match.
+ARM,Armenia,,,SPAM2020,Armenia,0,,,,matched,SPAM FIPS0=AM. Exact normalized ISO name match.
+AUS,Australia,,,SPAM2020,Australia,0,,,,matched,SPAM FIPS0=AS. Exact normalized ISO name match.
+AUT,Austria,,,SPAM2020,Austria,0,,,,matched,SPAM FIPS0=AU. Exact normalized ISO name match.
+AZE,Azerbaijan,,,SPAM2020,Azerbaijan,0,,,,matched,SPAM FIPS0=AJ. Exact normalized ISO name match.
+BHS,Bahamas,,,SPAM2020,Bahamas,0,,,,matched,SPAM FIPS0=BF. Exact normalized ISO name match.
+BHR,Bahrain,,,SPAM2020,Bahrain,0,,,,matched,SPAM FIPS0=BA. Exact normalized ISO name match.
+BGD,Bangladesh,,,SPAM2020,Bangladesh,0,,,,matched,SPAM FIPS0=BG. Exact normalized ISO name match.
+BRB,Barbados,,,SPAM2020,Barbados,0,,,,matched,SPAM FIPS0=BB. Exact normalized ISO name match.
+BLR,Belarus,,,SPAM2020,Belarus,0,,,,matched,SPAM FIPS0=BO. Exact normalized ISO name match.
+BEL,Belgium,,,SPAM2020,Belgium,0,,,,matched,SPAM FIPS0=BE. Exact normalized ISO name match.
+BLZ,Belize,,,SPAM2020,Belize,0,,,,matched,SPAM FIPS0=BH. Exact normalized ISO name match.
+BEN,Benin,,,SPAM2020,Benin,0,,,,matched,SPAM FIPS0=BN. Exact normalized ISO name match.
+BTN,Bhutan,,,SPAM2020,Bhutan,0,,,,matched,SPAM FIPS0=BT. Exact normalized ISO name match.
+BOL,"Bolivia, Plurinational State of",,,SPAM2020,Bolivia,0,,,,matched,SPAM FIPS0=BL. Deterministic curated alias; no fuzzy matching.
+BIH,Bosnia and Herzegovina,,,SPAM2020,Bosnia and Herzegovina,0,,,,matched,SPAM FIPS0=BK. Exact normalized ISO name match.
+BWA,Botswana,,,SPAM2020,Botswana,0,,,,matched,SPAM FIPS0=BC. Exact normalized ISO name match.
+BRA,Brazil,,,SPAM2020,Brazil,0,,,,matched,SPAM FIPS0=BR. Exact normalized ISO name match.
+BRN,Brunei Darussalam,,,SPAM2020,Brunei Darussalam,0,,,,matched,SPAM FIPS0=BX. Deterministic curated alias; no fuzzy matching.
+BGR,Bulgaria,,,SPAM2020,Bulgaria,0,,,,matched,SPAM FIPS0=BU. Exact normalized ISO name match.
+BFA,Burkina Faso,,,SPAM2020,Burkina Faso,0,,,,matched,SPAM FIPS0=UV. Exact normalized ISO name match.
+BDI,Burundi,,,SPAM2020,Burundi,0,,,,matched,SPAM FIPS0=BY. Exact normalized ISO name match.
+KHM,Cambodia,,,SPAM2020,Cambodia,0,,,,matched,SPAM FIPS0=CB. Exact normalized ISO name match.
+CMR,Cameroon,,,SPAM2020,Cameroon,0,,,,matched,SPAM FIPS0=CM. Exact normalized ISO name match.
+CAN,Canada,,,SPAM2020,Canada,0,,,,matched,SPAM FIPS0=CA. Exact normalized ISO name match.
+CAF,Central African Republic,,,SPAM2020,Central African Republic,0,,,,matched,SPAM FIPS0=CT. Exact normalized ISO name match.
+TCD,Chad,,,SPAM2020,Chad,0,,,,matched,SPAM FIPS0=CD. Exact normalized ISO name match.
+CHL,Chile,,,SPAM2020,Chile,0,,,,matched,SPAM FIPS0=CI. Exact normalized ISO name match.
+CHN,China,,,SPAM2020,China,0,,,,matched,SPAM FIPS0=CH. Exact normalized ISO name match.
+COL,Colombia,,,SPAM2020,Colombia,0,,,,matched,SPAM FIPS0=CO. Exact normalized ISO name match.
+COG,Congo,,,SPAM2020,Congo,0,,,,matched,SPAM FIPS0=CF. Exact normalized ISO name match.
+CRI,Costa Rica,,,SPAM2020,Costa Rica,0,,,,matched,SPAM FIPS0=CS. Exact normalized ISO name match.
+CIV,Côte d'Ivoire,,,SPAM2020,Cote dIvoire,0,,,,matched,SPAM FIPS0=IV. Deterministic curated alias; no fuzzy matching.
+HRV,Croatia,,,SPAM2020,Croatia,0,,,,matched,SPAM FIPS0=HR. Exact normalized ISO name match.
+CUB,Cuba,,,SPAM2020,Cuba,0,,,,matched,SPAM FIPS0=CU. Exact normalized ISO name match.
+CYP,Cyprus,,,SPAM2020,Cyprus,0,,,,matched,SPAM FIPS0=CY. Exact normalized ISO name match.
+CZE,Czechia,,,SPAM2020,Czechia,0,,,,matched,SPAM FIPS0=EZ. Exact normalized ISO name match.
+PRK,"Korea, Democratic People's Republic of",,,SPAM2020,Dem Peoples Rep of Korea,0,,,,matched,SPAM FIPS0=KN. Deterministic curated alias; no fuzzy matching.
+COD,"Congo, The Democratic Republic of the",,,SPAM2020,Democratic Republic of the Congo,0,,,,matched,SPAM FIPS0=CG. Deterministic curated alias; no fuzzy matching.
+DNK,Denmark,,,SPAM2020,Denmark,0,,,,matched,SPAM FIPS0=DA. Exact normalized ISO name match.
+DJI,Djibouti,,,SPAM2020,Djibouti,0,,,,matched,SPAM FIPS0=DJ. Exact normalized ISO name match.
+DMA,Dominica,,,SPAM2020,Dominica,0,,,,matched,SPAM FIPS0=DO. Exact normalized ISO name match.
+DOM,Dominican Republic,,,SPAM2020,Dominican Republic,0,,,,matched,SPAM FIPS0=DR. Exact normalized ISO name match.
+ECU,Ecuador,,,SPAM2020,Ecuador,0,,,,matched,SPAM FIPS0=EC. Exact normalized ISO name match.
+EGY,Egypt,,,SPAM2020,Egypt,0,,,,matched,SPAM FIPS0=EG. Exact normalized ISO name match.
+SLV,El Salvador,,,SPAM2020,El Salvador,0,,,,matched,SPAM FIPS0=ES. Exact normalized ISO name match.
+GNQ,Equatorial Guinea,,,SPAM2020,Equatorial Guinea,0,,,,matched,SPAM FIPS0=EK. Exact normalized ISO name match.
+ERI,Eritrea,,,SPAM2020,Eritrea,0,,,,matched,SPAM FIPS0=ER. Exact normalized ISO name match.
+EST,Estonia,,,SPAM2020,Estonia,0,,,,matched,SPAM FIPS0=EN. Exact normalized ISO name match.
+ETH,Ethiopia,,,SPAM2020,Ethiopia,0,,,,matched,SPAM FIPS0=ET. Exact normalized ISO name match.
+FJI,Fiji,,,SPAM2020,Fiji,0,,,,matched,SPAM FIPS0=FJ. Exact normalized ISO name match.
+FIN,Finland,,,SPAM2020,Finland,0,,,,matched,SPAM FIPS0=FI. Exact normalized ISO name match.
+FRA,France,,,SPAM2020,France,0,,,,matched,SPAM FIPS0=FR. Exact normalized ISO name match.
+GAB,Gabon,,,SPAM2020,Gabon,0,,,,matched,SPAM FIPS0=GB. Exact normalized ISO name match.
+GMB,Gambia,,,SPAM2020,Gambia,0,,,,matched,SPAM FIPS0=GA. Exact normalized ISO name match.
+GEO,Georgia,,,SPAM2020,Georgia,0,,,,matched,SPAM FIPS0=GG. Exact normalized ISO name match.
+DEU,Germany,,,SPAM2020,Germany,0,,,,matched,SPAM FIPS0=GM. Exact normalized ISO name match.
+GHA,Ghana,,,SPAM2020,Ghana,0,,,,matched,SPAM FIPS0=GH. Exact normalized ISO name match.
+GRC,Greece,,,SPAM2020,Greece,0,,,,matched,SPAM FIPS0=GR. Exact normalized ISO name match.
+GRD,Grenada,,,SPAM2020,Grenada,0,,,,matched,SPAM FIPS0=GJ. Exact normalized ISO name match.
+GTM,Guatemala,,,SPAM2020,Guatemala,0,,,,matched,SPAM FIPS0=GT. Exact normalized ISO name match.
+GIN,Guinea,,,SPAM2020,Guinea,0,,,,matched,SPAM FIPS0=GV. Exact normalized ISO name match.
+GNB,Guinea-Bissau,,,SPAM2020,Guinea-Bissau,0,,,,matched,SPAM FIPS0=PU. Exact normalized ISO name match.
+GUY,Guyana,,,SPAM2020,Guyana,0,,,,matched,SPAM FIPS0=GY. Exact normalized ISO name match.
+HTI,Haiti,,,SPAM2020,Haiti,0,,,,matched,SPAM FIPS0=HA. Exact normalized ISO name match.
+HND,Honduras,,,SPAM2020,Honduras,0,,,,matched,SPAM FIPS0=HO. Exact normalized ISO name match.
+HUN,Hungary,,,SPAM2020,Hungary,0,,,,matched,SPAM FIPS0=HU. Exact normalized ISO name match.
+ISL,Iceland,,,SPAM2020,Iceland,0,,,,matched,SPAM FIPS0=IC. Exact normalized ISO name match.
+IND,India,,,SPAM2020,India,0,,,,matched,SPAM FIPS0=IN. Exact normalized ISO name match.
+IDN,Indonesia,,,SPAM2020,Indonesia,0,,,,matched,SPAM FIPS0=ID. Exact normalized ISO name match.
+IRN,"Iran, Islamic Republic of",,,SPAM2020,Iran  (Islamic Republic of),0,,,,matched,SPAM FIPS0=IR. Deterministic curated alias; no fuzzy matching.
+IRQ,Iraq,,,SPAM2020,Iraq,0,,,,matched,SPAM FIPS0=IZ. Exact normalized ISO name match.
+IRL,Ireland,,,SPAM2020,Ireland,0,,,,matched,SPAM FIPS0=EI. Exact normalized ISO name match.
+ISR,Israel,,,SPAM2020,Israel,0,,,,matched,SPAM FIPS0=IS. Exact normalized ISO name match.
+ITA,Italy,,,SPAM2020,Italy,0,,,,matched,SPAM FIPS0=IT. Exact normalized ISO name match.
+JAM,Jamaica,,,SPAM2020,Jamaica,0,,,,matched,SPAM FIPS0=JM. Exact normalized ISO name match.
+JPN,Japan,,,SPAM2020,Japan,0,,,,matched,SPAM FIPS0=JA. Exact normalized ISO name match.
+JOR,Jordan,,,SPAM2020,Jordan,0,,,,matched,SPAM FIPS0=JO. Exact normalized ISO name match.
+KAZ,Kazakhstan,,,SPAM2020,Kazakhstan,0,,,,matched,SPAM FIPS0=KZ. Exact normalized ISO name match.
+KEN,Kenya,,,SPAM2020,Kenya,0,,,,matched,SPAM FIPS0=KE. Exact normalized ISO name match.
+KWT,Kuwait,,,SPAM2020,Kuwait,0,,,,matched,SPAM FIPS0=KU. Exact normalized ISO name match.
+KGZ,Kyrgyzstan,,,SPAM2020,Kyrgyzstan,0,,,,matched,SPAM FIPS0=KG. Exact normalized ISO name match.
+LAO,Lao People's Democratic Republic,,,SPAM2020,Lao Peoples Democratic Republic,0,,,,matched,SPAM FIPS0=LA. Deterministic curated alias; no fuzzy matching.
+LVA,Latvia,,,SPAM2020,Latvia,0,,,,matched,SPAM FIPS0=LG. Exact normalized ISO name match.
+LBN,Lebanon,,,SPAM2020,Lebanon,0,,,,matched,SPAM FIPS0=LE. Exact normalized ISO name match.
+LSO,Lesotho,,,SPAM2020,Lesotho,0,,,,matched,SPAM FIPS0=LT. Exact normalized ISO name match.
+LBR,Liberia,,,SPAM2020,Liberia,0,,,,matched,SPAM FIPS0=LI. Exact normalized ISO name match.
+LBY,Libya,,,SPAM2020,Libya,0,,,,matched,SPAM FIPS0=LY. Exact normalized ISO name match.
+LTU,Lithuania,,,SPAM2020,Lithuania,0,,,,matched,SPAM FIPS0=LH. Exact normalized ISO name match.
+LUX,Luxembourg,,,SPAM2020,Luxembourg,0,,,,matched,SPAM FIPS0=LU. Exact normalized ISO name match.
+MDG,Madagascar,,,SPAM2020,Madagascar,0,,,,matched,SPAM FIPS0=MA. Exact normalized ISO name match.
+MWI,Malawi,,,SPAM2020,Malawi,0,,,,matched,SPAM FIPS0=MI. Exact normalized ISO name match.
+MYS,Malaysia,,,SPAM2020,Malaysia,0,,,,matched,SPAM FIPS0=MY. Exact normalized ISO name match.
+MLI,Mali,,,SPAM2020,Mali,0,,,,matched,SPAM FIPS0=ML. Exact normalized ISO name match.
+MLT,Malta,,,SPAM2020,Malta,0,,,,matched,SPAM FIPS0=MT. Exact normalized ISO name match.
+MRT,Mauritania,,,SPAM2020,Mauritania,0,,,,matched,SPAM FIPS0=MR. Exact normalized ISO name match.
+MUS,Mauritius,,,SPAM2020,Mauritius,0,,,,matched,SPAM FIPS0=MP. Exact normalized ISO name match.
+MEX,Mexico,,,SPAM2020,Mexico,0,,,,matched,SPAM FIPS0=MX. Exact normalized ISO name match.
+MNG,Mongolia,,,SPAM2020,Mongolia,0,,,,matched,SPAM FIPS0=MG. Exact normalized ISO name match.
+MNE,Montenegro,,,SPAM2020,Montenegro,0,,,,matched,SPAM FIPS0=MW. Exact normalized ISO name match.
+MAR,Morocco,,,SPAM2020,Morocco,0,,,,matched,SPAM FIPS0=MO. Exact normalized ISO name match.
+MOZ,Mozambique,,,SPAM2020,Mozambique,0,,,,matched,SPAM FIPS0=MZ. Exact normalized ISO name match.
+MMR,Myanmar,,,SPAM2020,Myanmar,0,,,,matched,SPAM FIPS0=BM. Exact normalized ISO name match.
+NAM,Namibia,,,SPAM2020,Namibia,0,,,,matched,SPAM FIPS0=WA. Exact normalized ISO name match.
+NPL,Nepal,,,SPAM2020,Nepal,0,,,,matched,SPAM FIPS0=NP. Exact normalized ISO name match.
+NLD,Netherlands,,,SPAM2020,Netherlands,0,,,,matched,SPAM FIPS0=NL. Exact normalized ISO name match.
+NCL,New Caledonia,,,SPAM2020,New Caledonia,0,,,,matched,SPAM FIPS0=NC. Exact normalized ISO name match.
+NZL,New Zealand,,,SPAM2020,New Zealand,0,,,,matched,SPAM FIPS0=NZ. Exact normalized ISO name match.
+NIC,Nicaragua,,,SPAM2020,Nicaragua,0,,,,matched,SPAM FIPS0=NU. Exact normalized ISO name match.
+NER,Niger,,,SPAM2020,Niger,0,,,,matched,SPAM FIPS0=NG. Exact normalized ISO name match.
+NGA,Nigeria,,,SPAM2020,Nigeria,0,,,,matched,SPAM FIPS0=NI. Exact normalized ISO name match.
+MKD,North Macedonia,,,SPAM2020,North Macedonia,0,,,,matched,SPAM FIPS0=MK. Exact normalized ISO name match.
+NOR,Norway,,,SPAM2020,Norway,0,,,,matched,SPAM FIPS0=NO. Exact normalized ISO name match.
+OMN,Oman,,,SPAM2020,Oman,0,,,,matched,SPAM FIPS0=MU. Exact normalized ISO name match.
+PAK,Pakistan,,,SPAM2020,Pakistan,0,,,,matched,SPAM FIPS0=PK. Exact normalized ISO name match.
+PAN,Panama,,,SPAM2020,Panama,0,,,,matched,SPAM FIPS0=PM. Exact normalized ISO name match.
+PNG,Papua New Guinea,,,SPAM2020,Papua New Guinea,0,,,,matched,SPAM FIPS0=PP. Exact normalized ISO name match.
+PRY,Paraguay,,,SPAM2020,Paraguay,0,,,,matched,SPAM FIPS0=PA. Exact normalized ISO name match.
+PER,Peru,,,SPAM2020,Peru,0,,,,matched,SPAM FIPS0=PE. Exact normalized ISO name match.
+PHL,Philippines,,,SPAM2020,Philippines,0,,,,matched,SPAM FIPS0=RP. Exact normalized ISO name match.
+POL,Poland,,,SPAM2020,Poland,0,,,,matched,SPAM FIPS0=PL. Exact normalized ISO name match.
+PRT,Portugal,,,SPAM2020,Portugal,0,,,,matched,SPAM FIPS0=PO. Exact normalized ISO name match.
+PRI,Puerto Rico,,,SPAM2020,Puerto Rico,0,,,,matched,SPAM FIPS0=PQ. Exact normalized ISO name match.
+QAT,Qatar,,,SPAM2020,Qatar,0,,,,matched,SPAM FIPS0=QA. Exact normalized ISO name match.
+MDA,"Moldova, Republic of",,,SPAM2020,Republic of Moldova,0,,,,matched,SPAM FIPS0=MD. Deterministic curated alias; no fuzzy matching.
+ROU,Romania,,,SPAM2020,Romania,0,,,,matched,SPAM FIPS0=RO. Exact normalized ISO name match.
+RUS,Russian Federation,,,SPAM2020,Russian Federation,0,,,,matched,SPAM FIPS0=RS. Deterministic curated alias; no fuzzy matching.
+RWA,Rwanda,,,SPAM2020,Rwanda,0,,,,matched,SPAM FIPS0=RW. Exact normalized ISO name match.
+KNA,Saint Kitts and Nevis,,,SPAM2020,Saint Kitts and Nevis,0,,,,matched,SPAM FIPS0=SC. Exact normalized ISO name match.
+LCA,Saint Lucia,,,SPAM2020,Saint Lucia,0,,,,matched,SPAM FIPS0=ST. Exact normalized ISO name match.
+VCT,Saint Vincent and the Grenadines,,,SPAM2020,Saint Vincent and the Grenadines,0,,,,matched,SPAM FIPS0=VC. Exact normalized ISO name match.
+STP,Sao Tome and Principe,,,SPAM2020,Sao Tome and Principe,0,,,,matched,SPAM FIPS0=TP. Exact normalized ISO name match.
+SAU,Saudi Arabia,,,SPAM2020,Saudi Arabia,0,,,,matched,SPAM FIPS0=SA. Exact normalized ISO name match.
+SEN,Senegal,,,SPAM2020,Senegal,0,,,,matched,SPAM FIPS0=SG. Exact normalized ISO name match.
+SRB,Serbia,,,SPAM2020,Serbia,0,,,,matched,SPAM FIPS0=RI. Exact normalized ISO name match.
+SLE,Sierra Leone,,,SPAM2020,Sierra Leone,0,,,,matched,SPAM FIPS0=SL. Exact normalized ISO name match.
+SVK,Slovakia,,,SPAM2020,Slovakia,0,,,,matched,SPAM FIPS0=LO. Exact normalized ISO name match.
+SVN,Slovenia,,,SPAM2020,Slovenia,0,,,,matched,SPAM FIPS0=SI. Exact normalized ISO name match.
+SLB,Solomon Islands,,,SPAM2020,Solomon Islands,0,,,,matched,SPAM FIPS0=BP. Exact normalized ISO name match.
+SOM,Somalia,,,SPAM2020,Somalia,0,,,,matched,SPAM FIPS0=SO. Exact normalized ISO name match.
+ZAF,South Africa,,,SPAM2020,South Africa,0,,,,matched,SPAM FIPS0=SF. Exact normalized ISO name match.
+KOR,"Korea, Republic of",,,SPAM2020,South Korea,0,,,,matched,SPAM FIPS0=KS. Deterministic curated alias; no fuzzy matching.
+SSD,South Sudan,,,SPAM2020,South Sudan,0,,,,matched,SPAM FIPS0=OD. Exact normalized ISO name match.
+ESP,Spain,,,SPAM2020,Spain,0,,,,matched,SPAM FIPS0=SP. Exact normalized ISO name match.
+LKA,Sri Lanka,,,SPAM2020,Sri Lanka,0,,,,matched,SPAM FIPS0=CE. Exact normalized ISO name match.
+SDN,Sudan,,,SPAM2020,Sudan,0,,,,matched,SPAM FIPS0=SU. Exact normalized ISO name match.
+SUR,Suriname,,,SPAM2020,Suriname,0,,,,matched,SPAM FIPS0=NS. Exact normalized ISO name match.
+SWZ,Eswatini,,,SPAM2020,Swaziland,0,,,,matched,SPAM FIPS0=WZ. Deterministic curated alias; no fuzzy matching.
+SWE,Sweden,,,SPAM2020,Sweden,0,,,,matched,SPAM FIPS0=SW. Exact normalized ISO name match.
+CHE,Switzerland,,,SPAM2020,Switzerland,0,,,,matched,SPAM FIPS0=SZ. Exact normalized ISO name match.
+SYR,Syrian Arab Republic,,,SPAM2020,Syrian Arab Republic,0,,,,matched,SPAM FIPS0=SY. Deterministic curated alias; no fuzzy matching.
+TWN,"Taiwan, Province of China",,,SPAM2020,Taiwan,0,,,,matched,SPAM FIPS0=TW. Deterministic curated alias; no fuzzy matching.
+TJK,Tajikistan,,,SPAM2020,Tajikistan,0,,,,matched,SPAM FIPS0=TI. Exact normalized ISO name match.
+THA,Thailand,,,SPAM2020,Thailand,0,,,,matched,SPAM FIPS0=TH. Exact normalized ISO name match.
+TLS,Timor-Leste,,,SPAM2020,Timor-Leste,0,,,,matched,SPAM FIPS0=TT. Exact normalized ISO name match.
+TGO,Togo,,,SPAM2020,Togo,0,,,,matched,SPAM FIPS0=TG. Exact normalized ISO name match.
+TTO,Trinidad and Tobago,,,SPAM2020,Trinidad and Tobago,0,,,,matched,SPAM FIPS0=TD. Exact normalized ISO name match.
+TUN,Tunisia,,,SPAM2020,Tunisia,0,,,,matched,SPAM FIPS0=TS. Exact normalized ISO name match.
+TUR,Türkiye,,,SPAM2020,Turkey,0,,,,matched,SPAM FIPS0=TU. Deterministic curated alias; no fuzzy matching.
+TKM,Turkmenistan,,,SPAM2020,Turkmenistan,0,,,,matched,SPAM FIPS0=TX. Exact normalized ISO name match.
+UGA,Uganda,,,SPAM2020,Uganda,0,,,,matched,SPAM FIPS0=UG. Exact normalized ISO name match.
+UKR,Ukraine,,,SPAM2020,Ukraine,0,,,,matched,SPAM FIPS0=UP. Exact normalized ISO name match.
+ARE,United Arab Emirates,,,SPAM2020,United Arab Emirates,0,,,,matched,SPAM FIPS0=TC. Exact normalized ISO name match.
+GBR,United Kingdom,,,SPAM2020,United Kingdom of Great Britain and Northern Ireland,0,,,,matched,SPAM FIPS0=UK. Deterministic curated alias; no fuzzy matching.
+TZA,"Tanzania, United Republic of",,,SPAM2020,United Republic of Tanzania,0,,,,matched,SPAM FIPS0=TZ. Deterministic curated alias; no fuzzy matching.
+USA,United States,,,SPAM2020,United States of America,0,,,,matched,SPAM FIPS0=US. Deterministic curated alias; no fuzzy matching.
+URY,Uruguay,,,SPAM2020,Uruguay,0,,,,matched,SPAM FIPS0=UY. Exact normalized ISO name match.
+UZB,Uzbekistan,,,SPAM2020,Uzbekistan,0,,,,matched,SPAM FIPS0=UZ. Exact normalized ISO name match.
+VUT,Vanuatu,,,SPAM2020,Vanuatu,0,,,,matched,SPAM FIPS0=NH. Exact normalized ISO name match.
+VEN,"Venezuela, Bolivarian Republic of",,,SPAM2020,Venezuela,0,,,,matched,SPAM FIPS0=VE. Deterministic curated alias; no fuzzy matching.
+VNM,Viet Nam,,,SPAM2020,Viet Nam,0,,,,matched,SPAM FIPS0=VM. Deterministic curated alias; no fuzzy matching.
+YEM,Yemen,,,SPAM2020,Yemen,0,,,,matched,SPAM FIPS0=YM. Exact normalized ISO name match.
+ZMB,Zambia,,,SPAM2020,Zambia,0,,,,matched,SPAM FIPS0=ZA. Exact normalized ISO name match.
+ZWE,Zimbabwe,,,SPAM2020,Zimbabwe,0,,,,matched,SPAM FIPS0=ZI. Exact normalized ISO name match.
+YUG,Yugoslavia,,,historical_reference,Yugoslavia,1,1918,2002,BIH|HRV|MKD|MNE|SRB|SVN,historical_entity,Explicit boundary-change record; never silently mapped to successors.
+ANT,Netherlands Antilles,,,historical_reference,Netherlands Antilles,1,1954,2010,BES|CUW|SXM,historical_entity,Explicit boundary-change record; never silently mapped to successors.
