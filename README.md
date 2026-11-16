@@ -1,3 +1,4 @@
+This code-related work is currently in the submission stage and can not be used casually before it is officially accepted.
 # ENSO phase tendencies and the geography of crop harvest risk
 
 Historical El Niño and La Niña patterns provide useful information about crop yields, but an average relationship does not describe every harvest or the production it represents. This research companion connects four major crops—maize, rice, soybean and wheat—with individual ENSO events, growing environments, weather-model information and the geography of crop production.
