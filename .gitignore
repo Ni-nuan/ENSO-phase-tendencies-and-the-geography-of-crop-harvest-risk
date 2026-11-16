@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.secrets/
+*.log
+*.docx
+*.tmp
+.DS_Store
+data/raw/
